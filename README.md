@@ -1,0 +1,2 @@
+# Namada
+cargo run
